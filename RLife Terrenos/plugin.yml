@@ -1,0 +1,8 @@
+name: BCity
+description: BCity
+version: 1.0
+main: com.bernardopmbr.bcity.Principal
+commands:
+   bcity:
+      description: comando principal
+      usage: /bcity

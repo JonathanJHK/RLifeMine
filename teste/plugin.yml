@@ -1,0 +1,4 @@
+name: RemoveRecipes
+version: 1.0
+main: me.Archery.disablecraftingitems.Main
+description: RemoveITems

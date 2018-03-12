@@ -1,0 +1,6 @@
+name: RLifePrisao
+description: RlifePrisao
+version: 1.0
+main: me.diegofr.prisao.Principal
+commands:
+    prender:

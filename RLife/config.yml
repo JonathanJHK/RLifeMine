@@ -1,0 +1,8 @@
+# ========= Config Do RLife ========== #
+# Autor: Diegofr.
+# Nao altere a lista de donos de terrenos.
+# Altere para false caso prefira que os players possam comprar quantos terrenos oficiais quiser ao invés de apenas um.
+LimiteDeUmTerrenoPorPlayer: false
+
+donosdeterrenos: 
+- abc

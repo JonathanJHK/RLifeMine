@@ -1,0 +1,8 @@
+name: BCity
+description: BCity
+version: 1.0
+main: com.bernardopmbr.bcity.Principal
+commands:
+   rlife:
+      description: comando principal
+      usage: /rlife
