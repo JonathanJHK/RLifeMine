@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerJoinEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerQuitEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.event.player.PlayerRespawnEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+</qualifiedTypeNameHistroy>
