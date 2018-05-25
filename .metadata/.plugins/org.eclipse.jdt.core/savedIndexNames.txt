@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+C:\Users\VashJHK\Dropbox\Facom\GitHUB\RLifeMine\.metadata\.plugins\org.eclipse.jdt.core
-1437880697.index
-4220676452.index

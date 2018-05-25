@@ -1,8 +1,0 @@
-name: RLife
-description: RLife
-version: 1.0
-main: com.diegofr.rlife.Principal
-commands:
-   rlife:
-      description: comando principal
-      usage: /rlife

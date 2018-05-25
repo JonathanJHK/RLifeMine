@@ -1,8 +1,0 @@
-# ========= Config Do BCity ========== #
-# Autor: bernardopmbr.
-# Nao altere a lista de donos de terrenos.
-# Altere para false caso prefira que os players possam comprar quantos terrenos oficiais quiser ao inves de apenas um.
-LimiteDeUmTerrenoPorPlayer: true
-
-donosdeterrenos: 
-- abc

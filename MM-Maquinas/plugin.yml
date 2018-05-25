@@ -1,7 +1,0 @@
-name: MM-Maquinas
-version: 3.0
-main: me.MMaquinas.Main
-author: zMarcDev
-commands:
-  combustivel:
-  maquina:
