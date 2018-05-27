@@ -2,7 +2,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Vida Medieval - Oficial Website</title>
-  <meta name="description" content="MyServer is a revolutionary Minecraft server. You can join with the IP 'play.myserver.net'.">
+  <meta name="description" content="O melhor server de Minecraft com a temática Medieval. Acesse pelo IP 'vidamedieval.reis.host'.">
   <meta name="keywords" content="MyServer, MyServer.com, Minecraft Server, Minecraft, Fun, Play, Portal, Website, Official">
 
   <!-- CSS  -->
