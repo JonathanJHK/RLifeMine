@@ -35,8 +35,8 @@ class Controller {
         }
 
         switch ($op) {
-            case 'novo':
-                $this->novo();
+            case 'tutorial':
+                $this->tutorial();
                 break;
             case 'cadastra':
                 $this->cadastra();
@@ -54,11 +54,11 @@ class Controller {
     }
 
     public function index() {
-        require 'View/index.php';
+        require 'View/home.php';
     }
 
-    public function novo() {
-        require 'View/novo.php';
+    public function tutorial() {
+        require 'View/tutorial.php';
     }
 
     public function cadastra() {

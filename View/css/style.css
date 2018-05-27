@@ -72,8 +72,24 @@ footer.page-footer {
   text-shadow: 2px 2px black;
 }
 
-#index-banner{
+.back-banner{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3))
+}
+
+.img-team{
+  width: 200px;
+}
+
+.img-team-a{
+  width: 50px;
+}
+
+.divider-marg{
+  margin-bottom: 10px;
+}
+
+.title-marg{
+  padding-top: 10px;
 }

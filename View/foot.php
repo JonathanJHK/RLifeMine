@@ -6,6 +6,7 @@
 <script src="View/js/init.js"></script>
 <script src="View/js/clipboard.min.js"></script>
 
+
 <script>
 var clipboard = new ClipboardJS('.copy-button');
 
@@ -21,7 +22,5 @@ clipboard.on('error', function(e) {
     console.error('Accion:', e.action);
     console.error('Trigger:', e.trigger);
 });
-
-
 </script>
 

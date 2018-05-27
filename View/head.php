@@ -12,23 +12,30 @@
 </head>
 
 <header>
-<nav class="grey darken-2 z-depth-5" role="navigation">
+<div id="nav" class="navbar-fixed">
+  <nav class="grey darken-2 z-depth-5" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo red-text text-lighten-1 index-font-sub">Vida Medieval</a>
       <ul class="right hide-on-med-and-down">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Forum</a></li>
-		    <li><a href="#games">Locais</a></li>
-		    <li><a href="#contact">Contato</a></li>
+        <li class="active"><a href="">Home</a></li>
+        <li><a href="#team">Equipe</a></li>
+        <li><a href="#locais">Locais</a></li>
+        <li><a href="?op=tutorial">Tutorial</a></li>
+        <li><a href="#vip" class="red lighten-1">Conta VIP</a></li>
+        <li><a href="#contact">Contato</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#" class="divider">Forum</a></li>
-		    <li><a href="#games" class="divider">Locais</a></li>
-		    <li><a href="#contact" class="divider">Contato</a></li>
+        <li class="active"><a href="">Home</a></li>
+        <li><a href="#team" class="divider">Equipe</a></li>
+        <li><a href="#locais" class="divider">Locais</a></li>
+         <li><a href="?op=tutorial">Tutorial</a></li>
+        <li><a href="#vip" class="divider red lighten-1">Conta VIP</a></li>
+        <li><a href="#contact" class="divider">Contato</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
   </nav>
+</div>
+
 </header>
