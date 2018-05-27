@@ -1,13 +1,13 @@
 
 
 <!--  Scripts-->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="View/js/materialize.js"></script>
-<script src="View/js/init.js"></script>
-<script src="View/js/clipboard.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js" DEFER="DEFER"></script>
+<script src="View/js/materialize.js" DEFER="DEFER"></script>
+<script src="View/js/init.js" DEFER="DEFER"></script>
+<script src="View/js/clipboard.min.js" DEFER="DEFER"></script>
 
 
-<script>
+<script DEFER="DEFER">
 var clipboard = new ClipboardJS('.copy-button');
 
 clipboard.on('success', function(e) {
@@ -23,4 +23,5 @@ clipboard.on('error', function(e) {
     console.error('Trigger:', e.trigger);
 });
 </script>
+
 

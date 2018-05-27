@@ -17,7 +17,7 @@
       <div class="nav-wrapper container">
         <a id="logo-container" href="#" class="brand-logo red-text text-lighten-1 index-font-sub">Vida Medieval</a>
         <ul class="right hide-on-med-and-down">
-          <li class="active"><a href="">Home</a></li>
+          <li class="active"><a href="?op=">Home</a></li>
           <li><a href="#locais">Locais</a></li>
           <li><a href="#team">Equipe</a></li>
           <li><a href="?op=tutorial">Tutorial</a></li>
