@@ -22,7 +22,7 @@
           <li><a href="#team">Equipe</a></li>
           <li><a href="?op=tutorial">Tutorial</a></li>
           <li><a href="#mural">Mural</a></li>
-          <li><a href="#vip" class="red lighten-1">Conta VIP</a></li>
+          <li><a href="http://pagcraft.com.br/vidamedieval/" class="red lighten-1">Conta VIP</a></li>
           <li><a href="#contact">Contato</a></li>
         </ul>
 
@@ -36,7 +36,7 @@
     <li><a href="#team" class="divider">Equipe</a></li>
     <li><a href="?op=tutorial" class="divider">Tutorial</a></li>
     <li><a href="#mural" class="divider">Mural</a></li>
-    <li><a href="#vip" class="divider red lighten-1">Conta VIP</a></li>
+    <li><a href="http://pagcraft.com.br/vidamedieval/" class="divider red lighten-1">Conta VIP</a></li>
     <li><a href="#contact" class="divider">Contato</a></li>
   </ul>
 </header>
